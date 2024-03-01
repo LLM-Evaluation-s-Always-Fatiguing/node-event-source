@@ -1,0 +1,6 @@
+.github/
+dist/*.spec.*
+src/
+spec/
+tsconfig.json
+*.md
