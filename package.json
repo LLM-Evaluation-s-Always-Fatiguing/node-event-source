@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A better API for making Event Source requests in NodeJS.",
   "homepage": "https://github.com/LLM-Evaluation-s-Always-Fatiguing/node-event-source#readme",
-  "repository": "LLM-Evaluation-s-Always-Fatiguing/node-event-source",
+  "repository": "github:LLM-Evaluation-s-Always-Fatiguing/node-event-source",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
