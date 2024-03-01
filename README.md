@@ -20,7 +20,7 @@ This library provides an alternate interface for consuming server-sent events, b
 # Install
 
 ```sh
-npm install @llm-eaf/node-event-source
+npm install @llm-eaf/node-event-source axios
 ```
 
 # Usage
