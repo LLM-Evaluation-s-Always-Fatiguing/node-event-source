@@ -20,13 +20,13 @@ This library provides an alternate interface for consuming server-sent events, b
 # Install
 
 ```sh
-npm install @leaf/node-event-source
+npm install @llm-eaf/node-event-source
 ```
 
 # Usage
 
 ```ts
-import { nodeEventSource } from "@leaf/node-event-source";
+import { nodeEventSource } from "@llm-eaf/node-event-source";
 
 await nodeEventSource("/api/sse", {
   onMessage(ev) {
@@ -38,7 +38,7 @@ await nodeEventSource("/api/sse", {
 > If your server not response with text/event-stream Content-Type, please use your own onOpen callBack.
 
 ```ts
-import { nodeEventSource } from "@leaf/node-event-source";
+import { nodeEventSource } from "@llm-eaf/node-event-source";
 
 await nodeEventSource("/api/sse", {
   onOpen(response) {

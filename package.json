@@ -1,9 +1,12 @@
 {
-  "name": "@leaf/node-event-source",
+  "name": "@llm-eaf/node-event-source",
   "version": "1.0.0",
   "description": "A better API for making Event Source requests in NodeJS.",
   "homepage": "https://github.com/LLM-Evaluation-s-Always-Fatiguing/node-event-source#readme",
-  "repository": "github:LLM-Evaluation-s-Always-Fatiguing/node-event-source",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLM-Evaluation-s-Always-Fatiguing/node-event-source.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
