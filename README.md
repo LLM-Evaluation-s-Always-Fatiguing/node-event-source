@@ -1,5 +1,7 @@
 # Node Event Source
 
+[![github-releases](https://img.shields.io/npm/dm/%40llm-eaf%2Fnode-event-source?color=7B916E&labelColor=black&logo=github&style=for-the-badge)](https://www.npmjs.com/package/@llm-eaf/node-event-source)
+
 > This library was inspired by and includes some code from [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source). We are grateful to the author and contributors of that library.
 
 This library offers an enhanced API for making [Event Source requests](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), also known as server-sent events, incorporating all the features available in the [Axios API](https://axios-http.com/docs/api_intro) for use within a Node.js environment.
