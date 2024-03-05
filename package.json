@@ -1,7 +1,13 @@
 {
   "name": "@llm-eaf/node-event-source",
-  "version": "1.0.0",
-  "description": "A better API for making Event Source requests in NodeJS.",
+  "version": "1.0.1",
+  "description": "A better API for making Event Source requests (SSE) in Node.js, with all the features of axios.",
+  "keywords": [
+    "event-source",
+    "node",
+    "sse",
+    "axios"
+  ],
   "homepage": "https://github.com/LLM-Evaluation-s-Always-Fatiguing/node-event-source#readme",
   "repository": {
     "type": "git",
